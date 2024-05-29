@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebUygulamasi1.props" />
+</Project>
